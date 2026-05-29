@@ -1,0 +1,7 @@
+interface:
+  display_name: "Healthcare Social Benchmark Strategist"
+  short_description: "Healthcare social benchmark reports"
+  default_prompt: "Use $healthcare-social-benchmark-strategist to analyze multi-platform healthcare social media KPIs and produce an executive benchmark report."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,14 @@
+{
+  "name": "healthcare-social-benchmark-strategist",
+  "displayName": "Healthcare Social Benchmark Strategist",
+  "description": "Executive healthcare social media benchmark workflow with KPI scoring, risk review, and board-ready reporting.",
+  "version": "1.0.0",
+  "author": {
+    "name": "chagkrit"
+  },
+  "repository": "https://github.com/chagkrit/Social-Platform-Analysis",
+  "license": "MIT",
+  "skills": [
+    "./"
+  ]
+}
